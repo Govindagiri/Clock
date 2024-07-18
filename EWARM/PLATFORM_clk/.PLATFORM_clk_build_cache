@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BuildDb>
+    <Tool>
+        <Name>linker</Name>
+        <Parent>
+            <Path>C:\Users\HP\Documents\PLATFORM_clk\EWARM\PLATFORM_clk\Exe\PLATFORM_clk.out</Path>
+            <Output>
+                <Path>C:\Users\HP\Documents\PLATFORM_clk\EWARM\PLATFORM_clk\List\PLATFORM_clk.map</Path>
+            </Output>
+        </Parent>
+        <Parent>
+            <Path>C:\Users\HP\Desktop\Task\PROJECT_Assign\PROJECT_SPNTC62_REV4-{Main}\PROJECT_clock_(18-07)\PLATFORM_clk\PLATFORM_clk\EWARM\PLATFORM_clk\Exe\PLATFORM_clk.out</Path>
+            <Output>
+                <Path>C:\Users\HP\Desktop\Task\PROJECT_Assign\PROJECT_SPNTC62_REV4-{Main}\PROJECT_clock_(18-07)\PLATFORM_clk\PLATFORM_clk\EWARM\PLATFORM_clk\List\PLATFORM_clk.map</Path>
+            </Output>
+        </Parent>
+        <Parent>
+            <Path>C:\Users\HP\Desktop\Task\PROJECT_Assign\PROJECT_SPNTC62_REV4-{Main}\PLATFORM_clk\PLATFORM_clk\EWARM\PLATFORM_clk\Exe\PLATFORM_clk.out</Path>
+            <Output>
+                <Path>C:\Users\HP\Desktop\Task\PROJECT_Assign\PROJECT_SPNTC62_REV4-{Main}\PLATFORM_clk\PLATFORM_clk\EWARM\PLATFORM_clk\List\PLATFORM_clk.map</Path>
+            </Output>
+        </Parent>
+        <Parent>
+            <Path>C:\Users\HP\Desktop\Task\PROJECT_Assign\PROJECT_SPNTC62_REV4\PLATFORM_clk\PLATFORM_clk\EWARM\PLATFORM_clk\Exe\PLATFORM_clk.out</Path>
+            <Output>
+                <Path>C:\Users\HP\Desktop\Task\PROJECT_Assign\PROJECT_SPNTC62_REV4\PLATFORM_clk\PLATFORM_clk\EWARM\PLATFORM_clk\List\PLATFORM_clk.map</Path>
+            </Output>
+        </Parent>
+    </Tool>
+</BuildDb>
