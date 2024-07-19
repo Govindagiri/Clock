@@ -1,41 +1,41 @@
-"C:\Users\HP\Desktop\Task\PROJECT_Assign\PROJECT_SPNTC62_REV4-{Main}\PROJECT_clock_(18-07)\PLATFORM_clk\PLATFORM_clk\Core\Src\stm32g0xx_it.c"
+"D:\WORK\CURRENT WORK\office  clock\Clock\Core\Src\stm32g0xx_it.c"
 -std=c11
 -ferror-limit=0
 -fbracket-depth=512
 -funsigned-char
 -MD
 -MF
-C:\Users\HP\Desktop\Task\PROJECT_Assign\PROJECT_SPNTC62_REV4-{Main}\PROJECT_clock_(18-07)\PLATFORM_clk\PLATFORM_clk\EWARM\PLATFORM_clk\BrowseInfo\Core_13247989168731456611.dir\stm32g0xx_it.pbi.dep
+D:\WORK\CURRENT WORK\office  clock\Clock\EWARM\PLATFORM_clk\BrowseInfo\Core_13247989168731456611.dir\stm32g0xx_it.pbi.dep
 -o
-C:\Users\HP\Desktop\Task\PROJECT_Assign\PROJECT_SPNTC62_REV4-{Main}\PROJECT_clock_(18-07)\PLATFORM_clk\PLATFORM_clk\EWARM\PLATFORM_clk\BrowseInfo\Core_13247989168731456611.dir\stm32g0xx_it.pbi
+D:\WORK\CURRENT WORK\office  clock\Clock\EWARM\PLATFORM_clk\BrowseInfo\Core_13247989168731456611.dir\stm32g0xx_it.pbi
 -I
-C:\Users\HP\Desktop\Task\PROJECT_Assign\PROJECT_SPNTC62_REV4-{Main}\PROJECT_clock_(18-07)\PLATFORM_clk\PLATFORM_clk\Core\Src
+D:\WORK\CURRENT WORK\office  clock\Clock\Core\Src
 -I
-C:\Users\HP\Desktop\Task\PROJECT_Assign\PROJECT_SPNTC62_REV4-{Main}\PROJECT_clock_(18-07)\PLATFORM_clk\PLATFORM_clk\EWARM/../Core/Inc
+D:\WORK\CURRENT WORK\office  clock\Clock\EWARM/../Core/Inc\
 -I
-C:\Users\HP\Desktop\Task\PROJECT_Assign\PROJECT_SPNTC62_REV4-{Main}\PROJECT_clock_(18-07)\PLATFORM_clk\PLATFORM_clk\EWARM/../Drivers/STM32G0xx_HAL_Driver/Inc
+D:\WORK\CURRENT WORK\office  clock\Clock\EWARM/../Drivers/STM32G0xx_HAL_Driver/Inc\
 -I
-C:\Users\HP\Desktop\Task\PROJECT_Assign\PROJECT_SPNTC62_REV4-{Main}\PROJECT_clock_(18-07)\PLATFORM_clk\PLATFORM_clk\EWARM/../Drivers/CMSIS/Device/ST/STM32G0xx/Include
+D:\WORK\CURRENT WORK\office  clock\Clock\EWARM/../Drivers/CMSIS/Device/ST/STM32G0xx/Include\
 -I
-C:\Users\HP\Desktop\Task\PROJECT_Assign\PROJECT_SPNTC62_REV4-{Main}\PROJECT_clock_(18-07)\PLATFORM_clk\PLATFORM_clk\EWARM/../Drivers/CMSIS/Include
+D:\WORK\CURRENT WORK\office  clock\Clock\EWARM/../Drivers/CMSIS/Include\
 -I
-C:\Users\HP\Desktop\Task\PROJECT_Assign\PROJECT_SPNTC62_REV4-{Main}\PROJECT_clock_(18-07)\PLATFORM_clk\PLATFORM_clk\EWARM/../Drivers/STM32G0xx_HAL_Driver/Inc/Legacy
+D:\WORK\CURRENT WORK\office  clock\Clock\EWARM/../Drivers/STM32G0xx_HAL_Driver/Inc/Legacy\
 -I
-C:\Program Files\IAR Systems\Embedded Workbench 9.4\arm\inc\c\aarch32
+E:\Software\IAR\arm\inc\c\aarch32
 -I
-C:\Program Files\IAR Systems\Embedded Workbench 9.4\arm\inc
+E:\Software\IAR\arm\inc
 -I
-C:\Program Files\IAR Systems\Embedded Workbench 9.4\arm\inc\c
+E:\Software\IAR\arm\inc\c
 -I
-C:\Users\HP\Desktop\Task\PROJECT_Assign\PROJECT_SPNTC62_REV4-{Main}\PROJECT_clock_(18-07)\PLATFORM_clk\PLATFORM_clk\Core\Inc
+D:\WORK\CURRENT WORK\office  clock\Clock\Core\Inc
 -I
-C:\Users\HP\Desktop\Task\PROJECT_Assign\PROJECT_SPNTC62_REV4-{Main}\PROJECT_clock_(18-07)\PLATFORM_clk\PLATFORM_clk\Drivers\STM32G0xx_HAL_Driver\Inc
+D:\WORK\CURRENT WORK\office  clock\Clock\Drivers\STM32G0xx_HAL_Driver\Inc
 -I
-C:\Users\HP\Desktop\Task\PROJECT_Assign\PROJECT_SPNTC62_REV4-{Main}\PROJECT_clock_(18-07)\PLATFORM_clk\PLATFORM_clk\Drivers\CMSIS\Device\ST\STM32G0xx\Include
+D:\WORK\CURRENT WORK\office  clock\Clock\Drivers\CMSIS\Device\ST\STM32G0xx\Include
 -I
-C:\Users\HP\Desktop\Task\PROJECT_Assign\PROJECT_SPNTC62_REV4-{Main}\PROJECT_clock_(18-07)\PLATFORM_clk\PLATFORM_clk\Drivers\CMSIS\Include
+D:\WORK\CURRENT WORK\office  clock\Clock\Drivers\CMSIS\Include
 -I
-C:\Users\HP\Desktop\Task\PROJECT_Assign\PROJECT_SPNTC62_REV4-{Main}\PROJECT_clock_(18-07)\PLATFORM_clk\PLATFORM_clk\Drivers\STM32G0xx_HAL_Driver\Inc\Legacy
+D:\WORK\CURRENT WORK\office  clock\Clock\Drivers\STM32G0xx_HAL_Driver\Inc\Legacy
 -D__CHAR_BITS__=8
 -D__CHAR_MAX__=0xff
 -D__CHAR_MIN__=0
@@ -70,24 +70,28 @@ C:\Users\HP\Desktop\Task\PROJECT_Assign\PROJECT_SPNTC62_REV4-{Main}\PROJECT_cloc
 -D__UINT8_T_TYPE__=unsigned char
 -D__UINT8_T_MAX__=0xff
 -D__INT8_SIZE_PREFIX__="hh"
+-D__INT8_T_SIZE__=1
 -D__INT16_T_TYPE__=signed short int
 -D__INT16_T_MAX__=32767
 -D__INT16_T_MIN__=(-__INT16_T_MAX__-1)
 -D__UINT16_T_TYPE__=unsigned short int
 -D__UINT16_T_MAX__=0xffff
 -D__INT16_SIZE_PREFIX__="h"
+-D__INT16_T_SIZE__=2
 -D__INT32_T_TYPE__=signed int
 -D__INT32_T_MAX__=2147483647
 -D__INT32_T_MIN__=(-__INT32_T_MAX__-1)
 -D__UINT32_T_TYPE__=unsigned int
 -D__UINT32_T_MAX__=0xffffffffU
 -D__INT32_SIZE_PREFIX__=""
+-D__INT32_T_SIZE__=4
 -D__INT64_T_TYPE__=signed long long int
 -D__INT64_T_MAX__=9223372036854775807LL
 -D__INT64_T_MIN__=(-__INT64_T_MAX__-1)
 -D__UINT64_T_TYPE__=unsigned long long int
 -D__UINT64_T_MAX__=0xffffffffffffffffULL
 -D__INT64_SIZE_PREFIX__="ll"
+-D__INT64_T_SIZE__=8
 -D__INT_LEAST8_T_TYPE__=signed char
 -D__INT_LEAST8_T_MAX__=127
 -D__INT_LEAST8_T_MIN__=(-__INT_LEAST8_T_MAX__-1)
@@ -96,6 +100,7 @@ C:\Users\HP\Desktop\Task\PROJECT_Assign\PROJECT_SPNTC62_REV4-{Main}\PROJECT_cloc
 -D__INT8_C_SUFFIX__=
 -D__UINT8_C_SUFFIX__=
 -D__INT_LEAST8_SIZE_PREFIX__="hh"
+-D__INT_LEAST8_T_SIZE__=1
 -D__INT_LEAST16_T_TYPE__=signed short int
 -D__INT_LEAST16_T_MAX__=32767
 -D__INT_LEAST16_T_MIN__=(-__INT_LEAST16_T_MAX__-1)
@@ -104,6 +109,7 @@ C:\Users\HP\Desktop\Task\PROJECT_Assign\PROJECT_SPNTC62_REV4-{Main}\PROJECT_cloc
 -D__INT16_C_SUFFIX__=
 -D__UINT16_C_SUFFIX__=
 -D__INT_LEAST16_SIZE_PREFIX__="h"
+-D__INT_LEAST16_T_SIZE__=2
 -D__INT_LEAST32_T_TYPE__=signed int
 -D__INT_LEAST32_T_MAX__=2147483647
 -D__INT_LEAST32_T_MIN__=(-__INT_LEAST32_T_MAX__-1)
@@ -112,6 +118,7 @@ C:\Users\HP\Desktop\Task\PROJECT_Assign\PROJECT_SPNTC62_REV4-{Main}\PROJECT_cloc
 -D__INT32_C_SUFFIX__=
 -D__UINT32_C_SUFFIX__=U
 -D__INT_LEAST32_SIZE_PREFIX__=""
+-D__INT_LEAST32_T_SIZE__=4
 -D__INT_LEAST64_T_TYPE__=signed long long int
 -D__INT_LEAST64_T_MAX__=9223372036854775807LL
 -D__INT_LEAST64_T_MIN__=(-__INT_LEAST64_T_MAX__-1)
@@ -120,30 +127,35 @@ C:\Users\HP\Desktop\Task\PROJECT_Assign\PROJECT_SPNTC62_REV4-{Main}\PROJECT_cloc
 -D__INT64_C_SUFFIX__=LL
 -D__UINT64_C_SUFFIX__=ULL
 -D__INT_LEAST64_SIZE_PREFIX__="ll"
+-D__INT_LEAST64_T_SIZE__=8
 -D__INT_FAST8_T_TYPE__=signed int
 -D__INT_FAST8_T_MAX__=2147483647
 -D__INT_FAST8_T_MIN__=(-__INT_FAST8_T_MAX__-1)
 -D__UINT_FAST8_T_TYPE__=unsigned int
 -D__UINT_FAST8_T_MAX__=0xffffffffU
 -D__INT_FAST8_SIZE_PREFIX__=""
+-D__INT_FAST8_T_SIZE__=4
 -D__INT_FAST16_T_TYPE__=signed int
 -D__INT_FAST16_T_MAX__=2147483647
 -D__INT_FAST16_T_MIN__=(-__INT_FAST16_T_MAX__-1)
 -D__UINT_FAST16_T_TYPE__=unsigned int
 -D__UINT_FAST16_T_MAX__=0xffffffffU
 -D__INT_FAST16_SIZE_PREFIX__=""
+-D__INT_FAST16_T_SIZE__=4
 -D__INT_FAST32_T_TYPE__=signed int
 -D__INT_FAST32_T_MAX__=2147483647
 -D__INT_FAST32_T_MIN__=(-__INT_FAST32_T_MAX__-1)
 -D__UINT_FAST32_T_TYPE__=unsigned int
 -D__UINT_FAST32_T_MAX__=0xffffffffU
 -D__INT_FAST32_SIZE_PREFIX__=""
+-D__INT_FAST32_T_SIZE__=4
 -D__INT_FAST64_T_TYPE__=signed long long int
 -D__INT_FAST64_T_MAX__=9223372036854775807LL
 -D__INT_FAST64_T_MIN__=(-__INT_FAST64_T_MAX__-1)
 -D__UINT_FAST64_T_TYPE__=unsigned long long int
 -D__UINT_FAST64_T_MAX__=0xffffffffffffffffULL
 -D__INT_FAST64_SIZE_PREFIX__="ll"
+-D__INT_FAST64_T_SIZE__=8
 -D__INTMAX_T_TYPE__=signed long long int
 -D__INTMAX_T_MAX__=9223372036854775807LL
 -D__INTMAX_T_MIN__=(-__INTMAX_T_MAX__-1)
@@ -152,6 +164,7 @@ C:\Users\HP\Desktop\Task\PROJECT_Assign\PROJECT_SPNTC62_REV4-{Main}\PROJECT_cloc
 -D__INTMAX_C_SUFFIX__=LL
 -D__UINTMAX_C_SUFFIX__=ULL
 -D__INTMAX_SIZE_PREFIX__="ll"
+-D__INTMAX_T_SIZE__=8
 -D__FLOAT_SIZE__=4
 -D__FLOAT_ALIGN__=4
 -D__FLT_MANT_DIG__=24
@@ -214,20 +227,23 @@ C:\Users\HP\Desktop\Task\PROJECT_Assign\PROJECT_SPNTC62_REV4-{Main}\PROJECT_cloc
 -D__SUBNORMAL_FLOATING_POINTS__=0
 -D__SIZE_T_TYPE__=unsigned int
 -D__SIZE_T_MAX__=0xffffffffU
+-D__SIZEOF_SIZE_T__=4
 -D__PTRDIFF_T_TYPE__=signed int
 -D__PTRDIFF_T_MAX__=2147483647
 -D__PTRDIFF_T_MIN__=(-__PTRDIFF_T_MAX__-1)
+-D__PTRDIFF_T_SIZE__=4
 -D__INTPTR_T_TYPE__=signed int
 -D__INTPTR_T_MAX__=2147483647
 -D__INTPTR_T_MIN__=(-__INTPTR_T_MAX__-1)
+-D__INTPTR_T_SIZE__=4
 -D__UINTPTR_T_TYPE__=unsigned int
 -D__UINTPTR_T_MAX__=0xffffffffU
 -D__INTPTR_SIZE_PREFIX__=""
 -D__JMP_BUF_ELEMENT_TYPE__=unsigned long long int
 -D__JMP_BUF_NUM_ELEMENTS__=8
 -D__TID__=0xcf70
--D__VER__=9040001
--D__BUILD_NUMBER__=364
+-D__VER__=9050002
+-D__BUILD_NUMBER__=385
 -D__IAR_SYSTEMS_ICC__=9
 -D_MAX_ALIGNMENT=8
 -D__LITTLE_ENDIAN__=1
@@ -289,6 +305,7 @@ C:\Users\HP\Desktop\Task\PROJECT_Assign\PROJECT_SPNTC62_REV4-{Main}\PROJECT_cloc
 -D__CODE_SIZE_LIMIT=0
 -D__CORE__=__ARM6M__
 -D__CPU_MODE__=1
+-D__GOT_INDIRECT=0
 -D__ICCARM_INTRINSICS_VERSION__=2
 -D__ICCARM__=1
 -D__INTERWORKING__=1
@@ -299,8 +316,8 @@ C:\Users\HP\Desktop\Task\PROJECT_Assign\PROJECT_SPNTC62_REV4-{Main}\PROJECT_cloc
 -D__HAS_JOINED_TYPES__=1
 -D__HAS_LOCATED_DECLARATION__=1
 -D__HAS_LOCATED_WITH_INIT__=1
--D__IAR_COMPILERBASE__=0xa0e01
--D__IAR_COMPILERBASE_STR__=10.14.1.1470
+-D__IAR_COMPILERBASE__=0xa1000
+-D__IAR_COMPILERBASE_STR__=10.16.0.9999
 -D__UNICODE_SOURCE_SUPPORTED__=1
 -D__VTABLE_MEM__=
 -D__PRAGMA_REDEFINE_EXTNAME=1
@@ -325,7 +342,7 @@ C:\Users\HP\Desktop\Task\PROJECT_Assign\PROJECT_SPNTC62_REV4-{Main}\PROJECT_cloc
 -D__cpp_unicode_literals=200710L
 -D__cpp_static_assert=200410L
 -D__EDG__=1
--D__EDG_VERSION__=603
+-D__EDG_VERSION__=605
 -D__EDG_SIZE_TYPE__=unsigned int
 -D__EDG_PTRDIFF_TYPE__=int
 -D__EDG_DELTA_TYPE=int
@@ -341,15 +358,16 @@ C:\Users\HP\Desktop\Task\PROJECT_Assign\PROJECT_SPNTC62_REV4-{Main}\PROJECT_cloc
 -D__EDG_SYSV=0
 -D__EDG_ANSIC=1
 -D__EDG_CPP11_IL_EXTENSIONS_SUPPORTED=1
+-D__EDG_HOST_HAS_FLOAT16_TYPE=0
 -D__EDG_FLOAT80_ENABLING_POSSIBLE=0
 -D__EDG_FLOAT128_ENABLING_POSSIBLE=0
 -D__EDG_INT128_EXTENSIONS_ALLOWED=0
 -DUSE_FULL_LL_DRIVER=1
 -DSTM32G030xx=1
 -DUSE_HAL_DRIVER=1
--D_DLIB_CONFIG_FILE_HEADER_NAME="C:\Program Files\IAR Systems\Embedded Workbench 9.4\arm\inc\c\DLib_Config_Full.h"
--D_DLIB_CONFIG_FILE_STRING="C:\\Program Files\\IAR Systems\\Embedded Workbench 9.4\\arm\\inc\\c\\DLib_Config_Full.h"
--D__VERSION__="IAR ANSI C/C++ Compiler V9.40.1.364/W64 for ARM"
+-D_DLIB_CONFIG_FILE_HEADER_NAME="E:\Software\IAR\arm\inc\c\DLib_Config_Full.h"
+-D_DLIB_CONFIG_FILE_STRING="E:\\Software\\IAR\\arm\\inc\\c\\DLib_Config_Full.h"
+-D__VERSION__="IAR ANSI C/C++ Compiler V9.50.2.385/W64 for ARM"
 -D_VA_DEFINED=
 -D_VA_LIST=struct __va_list
 -D__ICCARM_OLD_DEFINED_VAARGS__=1

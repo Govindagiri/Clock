@@ -23,9 +23,9 @@
 
 if ($debugfile -eq "")
 {
-& "C:\Program Files\IAR Systems\Embedded Workbench 9.4\common\bin\cspybat" -f "C:\Users\HP\Desktop\Task\PROJECT_Assign\PROJECT_SPNTC62_REV4-{Main}\PROJECT_clock_(18-07)\PLATFORM_clk\PLATFORM_clk\EWARM\settings\PLATFORM_clk.PLATFORM_clk.general.xcl" --backend -f "C:\Users\HP\Desktop\Task\PROJECT_Assign\PROJECT_SPNTC62_REV4-{Main}\PROJECT_clock_(18-07)\PLATFORM_clk\PLATFORM_clk\EWARM\settings\PLATFORM_clk.PLATFORM_clk.driver.xcl" 
+& "E:\Software\IAR\common\bin\cspybat" -f "D:\WORK\CURRENT WORK\office  clock\Clock\EWARM\settings\PLATFORM_clk.PLATFORM_clk.general.xcl" --backend -f "D:\WORK\CURRENT WORK\office  clock\Clock\EWARM\settings\PLATFORM_clk.PLATFORM_clk.driver.xcl" 
 }
 else
 {
-& "C:\Program Files\IAR Systems\Embedded Workbench 9.4\common\bin\cspybat" -f "C:\Users\HP\Desktop\Task\PROJECT_Assign\PROJECT_SPNTC62_REV4-{Main}\PROJECT_clock_(18-07)\PLATFORM_clk\PLATFORM_clk\EWARM\settings\PLATFORM_clk.PLATFORM_clk.general.xcl" --debug_file=$debugfile --backend -f "C:\Users\HP\Desktop\Task\PROJECT_Assign\PROJECT_SPNTC62_REV4-{Main}\PROJECT_clock_(18-07)\PLATFORM_clk\PLATFORM_clk\EWARM\settings\PLATFORM_clk.PLATFORM_clk.driver.xcl" 
+& "E:\Software\IAR\common\bin\cspybat" -f "D:\WORK\CURRENT WORK\office  clock\Clock\EWARM\settings\PLATFORM_clk.PLATFORM_clk.general.xcl" --debug_file=$debugfile --backend -f "D:\WORK\CURRENT WORK\office  clock\Clock\EWARM\settings\PLATFORM_clk.PLATFORM_clk.driver.xcl" 
 }

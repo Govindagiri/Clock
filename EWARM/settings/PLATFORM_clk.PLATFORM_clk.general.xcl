@@ -1,14 +1,14 @@
-"C:\Program Files\IAR Systems\Embedded Workbench 9.4\arm\bin\armPROC.dll" 
+"E:\Software\IAR\arm\bin\armPROC.dll" 
 
-"C:\Program Files\IAR Systems\Embedded Workbench 9.4\arm\bin\armSTLINK.dll" 
+"E:\Software\IAR\arm\bin\armSTLINK.dll" 
 
-"C:\Users\HP\Desktop\Task\PROJECT_Assign\PROJECT_SPNTC62_REV4-{Main}\PROJECT_clock_(18-07)\PLATFORM_clk\PLATFORM_clk\EWARM\PLATFORM_clk\Exe\PLATFORM_clk.out" 
+"D:\WORK\CURRENT WORK\office  clock\Clock\EWARM\PLATFORM_clk\Exe\PLATFORM_clk.out" 
 
---plugin="C:\Program Files\IAR Systems\Embedded Workbench 9.4\arm\bin\armbat.dll" 
+--plugin="E:\Software\IAR\arm\bin\armLibSupportUniversal.dll" 
 
---device_macro="C:\Program Files\IAR Systems\Embedded Workbench 9.4\arm/config/debugger/ST/STM32G0xx.dmac" 
+--device_macro="E:\Software\IAR\arm/config/debugger/ST/STM32G0xx.dmac" 
 
---flash_loader="C:\Program Files\IAR Systems\Embedded Workbench 9.4\arm/config/flashloader/ST/FlashSTM32G041x8.board" 
+--flash_loader="E:\Software\IAR\arm/config/flashloader/ST/FlashSTM32G041x8.board" 
 
 
 
