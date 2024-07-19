@@ -102,7 +102,8 @@ DATE : 18/07/24
 TIME : 1:19pm
 
 -> Take care of issue related to it :
-1. Resolved the issue related to mthe error
+1. Resolved the issue related to the Lib 
+error
 2. Merge the key scan part in the main code as said before.
 3. Add comment in the required lines.
 
