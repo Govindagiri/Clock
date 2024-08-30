@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BuildDb>
+    <Tool>
+        <Name>linker</Name>
+        <Parent>
+            <Path>C:\Users\vivek\Documents\OFFICE_CLOCK_SURYA\OFFICE_CLOCK_SURYA\EWARM\OFFICE_CLOCK_SURYA\Exe\OFFICE_CLOCK_SURYA.out</Path>
+            <Output>
+                <Path>C:\Users\vivek\Documents\OFFICE_CLOCK_SURYA\OFFICE_CLOCK_SURYA\EWARM\OFFICE_CLOCK_SURYA\List\OFFICE_CLOCK_SURYA.map</Path>
+            </Output>
+        </Parent>
+        <Parent>
+            <Path>D:\CODE\COMPANIES\PF CLOCK\OFFICE_CLOCK_SURYA\EWARM\OFFICE_CLOCK_SURYA\Exe\OFFICE_CLOCK_SURYA.out</Path>
+            <Output>
+                <Path>D:\CODE\COMPANIES\PF CLOCK\OFFICE_CLOCK_SURYA\EWARM\OFFICE_CLOCK_SURYA\List\OFFICE_CLOCK_SURYA.map</Path>
+            </Output>
+        </Parent>
+        <Parent>
+            <Path>D:\CODE\COMPANIES\Office_Clk\OFFICE_CLOCK_SURYA\EWARM\OFFICE_CLOCK_SURYA\Exe\OFFICE_CLOCK_SURYA.out</Path>
+            <Output>
+                <Path>D:\CODE\COMPANIES\Office_Clk\OFFICE_CLOCK_SURYA\EWARM\OFFICE_CLOCK_SURYA\List\OFFICE_CLOCK_SURYA.map</Path>
+            </Output>
+        </Parent>
+    </Tool>
+</BuildDb>
